@@ -1,0 +1,6 @@
+IN Mon Aug 22 14:34:07 2022 Encargad@ fede
+OUT Mon Aug 22 14:34:27 2022 Encargad@ fede $ 15
+##################################################
+IN Mon Aug 22 14:34:30 2022 Encargad@ Pedro
+OUT Mon Aug 22 14:34:43 2022 Encargad@ Pedro $ 54
+##################################################
